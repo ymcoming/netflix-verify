@@ -52,5 +52,6 @@ https://github.com/CoiaPrant/Netflix_Unlock_Information/
 
 另一个多个视频流的检测
 apt install jq
+
 bash <(curl -sSL "https://github.com/CoiaPrant/MediaUnlock_Test/raw/main/check.sh")
 
